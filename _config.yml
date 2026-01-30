@@ -2,11 +2,11 @@ title: Sarah Kontos # your name (or website title) here
 logo: "images/IMG_9297.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Maps, Data, Urbanism 
-  <br><br>
+  <br></br>
   I’m a cartographic designer and data analyst with an interest in ivestigating the ways that people move through cities.
   With a background in Urban Studies and visual design, I've created a path as a data anlyst in the GIS and transportation space.
   In my work I am to balance clarity and information to create tools that are useful and revealing.
-  <br><br>
+  <br></br>
   <a href="https://www.linkedin.com/in/smkontos/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
