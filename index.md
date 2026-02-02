@@ -19,22 +19,24 @@
 
 ### Spatial Analysis
 
-- [Project 1 Title](/sample_page)
-- [Project 2 Title](http://example.com/)
+- [Nonprofit Demographic Mapping](/sample_page)
+- [Mapping the Machine](http://example.com/)
+- [Re-Visioning the Urban Test Bed](http://example.com/)
 
 ---
 
 ### Transportation Technology
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [New York Subway Service Change Dashboard & Workflow](http://example.com/)
+- [DIY Port Authority Bus Tracker](http://example.com/)
 
 ---
 
 ### Civic Engagement
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Citizens Planning Institute ...in a Box](http://example.com/)
+- [“In The Neighborhood!” Board Game](http://example.com/)
+- [Who is the Renaissance For?](/sample_page)
 
 ---
 
